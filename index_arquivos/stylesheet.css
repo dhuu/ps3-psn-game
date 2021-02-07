@@ -86,27 +86,44 @@ td
 	text-align:center;}
 .xl68
 	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
 	border:.5pt solid windowtext;}
 .xl69
 	{mso-style-parent:style0;
+	font-size:12.0pt;
+	font-weight:700;
 	text-align:center;
 	border:.5pt solid windowtext;}
 .xl70
-	{mso-style-parent:style67;
-	color:#0070C0;
-	text-decoration:underline;
-	text-underline-style:single;
+	{mso-style-parent:style0;
+	font-weight:700;
 	border:.5pt solid windowtext;}
 .xl71
 	{mso-style-parent:style0;
-	mso-number-format:"\#\,\#\#0";
+	font-weight:700;
+	text-align:center;
 	border:.5pt solid windowtext;}
 .xl72
-	{mso-style-parent:style0;
-	mso-number-format:"General Date";
-	text-align:center;
+	{mso-style-parent:style67;
+	color:#0070C0;
+	font-weight:700;
+	text-decoration:underline;
+	text-underline-style:single;
 	border:.5pt solid windowtext;}
 .xl73
 	{mso-style-parent:style0;
+	font-weight:700;
+	mso-number-format:"\#\,\#\#0";
+	border:.5pt solid windowtext;}
+.xl74
+	{mso-style-parent:style0;
+	font-weight:700;
+	mso-number-format:"General Date";
+	text-align:center;
+	border:.5pt solid windowtext;}
+.xl75
+	{mso-style-parent:style0;
 	color:#0070C0;
+	font-weight:700;
 	border:.5pt solid windowtext;}
